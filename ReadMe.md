@@ -10,3 +10,7 @@ Topic creation
  -
 List all topics
  - bin/kafka-topics.sh --list --zookeeper localhost:2181
+
+Running the Application
+ - Run npm install
+ - Run nodemon index.js
